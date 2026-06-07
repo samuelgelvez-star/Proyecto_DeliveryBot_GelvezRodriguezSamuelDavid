@@ -330,8 +330,9 @@ Proyecto_DeliveryBot_GelvezRodriguezSamuelDavid/
 
 ---
 
-## 👨‍💻 Autor
+## DeepWiki
 
-**Samuel David Gelvez Rodriguez**
-Proyecto académico — Automatización con n8n y Telegram
-Zona horaria: America/Bogota (UTC-5)
+**Tuve un problema y es que al momento de cambiar la palabra github por deepwiki en mi url de repositorio, le doy enter y me mandaba para la siguiente pagina:**
+<img width="1868" height="894" alt="Captura de pantalla 2026-06-06 220200" src="https://github.com/user-attachments/assets/8fd37588-fcf7-4748-ad66-65f82229691c" />
+**No salia nada parecido a lo que nos mostro en la clase, asi que inicié sesion en deepwiki y ahi mismo le di create wiki, y le comparto el enlace por este medio: https://app.devin.ai/org/samuelgelvez-star/wiki/samuelgelvez-star/Proyecto_DeliveryBot_GelvezRodriguezSamuelDavid?branch=main.
+Solo debe iniciar sesion para poder ver la wiki de mi repositorio.
