@@ -15,8 +15,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -16880,
-        368
+        -17120,
+        288
       ],
       "webhookId": "c3d4e5f6-a7b8-9012-cdef-123456789012",
       "credentials": {
@@ -55,8 +55,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -17552,
-        336
+        -17792,
+        288
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -74,8 +74,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -17328,
-        336
+        -17568,
+        288
       ]
     },
     {
@@ -154,8 +154,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -17104,
-        336
+        -17344,
+        288
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -193,8 +193,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18448,
-        1200
+        -19120,
+        1088
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -212,8 +212,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -18224,
-        1200
+        -18896,
+        1088
       ]
     },
     {
@@ -248,8 +248,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -18000,
-        1200
+        -18672,
+        1088
       ],
       "webhookId": "e0d2bd39-95f6-4394-8352-ca5d15fbe25e",
       "credentials": {
@@ -272,8 +272,8 @@
       "type": "n8n-nodes-base.telegramTrigger",
       "typeVersion": 1.1,
       "position": [
-        -19344,
-        336
+        -20016,
+        224
       ],
       "webhookId": "13aafda7-73ed-4819-ae3c-8f5552166844",
       "credentials": {
@@ -292,8 +292,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -19120,
-        336
+        -19792,
+        224
       ]
     },
     {
@@ -325,9 +325,10 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18896,
-        336
+        -19568,
+        224
       ],
+      "alwaysOutputData": true,
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "mwZ36CfMG5guVfdr",
@@ -590,8 +591,8 @@
       "type": "n8n-nodes-base.switch",
       "typeVersion": 3.2,
       "position": [
-        -18672,
-        192
+        -19344,
+        80
       ]
     },
     {
@@ -623,8 +624,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18448,
-        -624
+        -19120,
+        -736
       ],
       "alwaysOutputData": true,
       "credentials": {
@@ -665,8 +666,8 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        -18224,
-        -624
+        -18896,
+        -736
       ]
     },
     {
@@ -684,8 +685,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -18000,
-        -720
+        -18672,
+        -832
       ],
       "webhookId": "b8fd9ad7-77fb-4772-8a11-4a66be85ea96",
       "credentials": {
@@ -716,8 +717,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18000,
-        -528
+        -18672,
+        -640
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -735,8 +736,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -17776,
-        -528
+        -18448,
+        -640
       ]
     },
     {
@@ -789,8 +790,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -17552,
-        -528
+        -18224,
+        -640
       ],
       "webhookId": "65ca2c80-d88b-4c14-941e-6dffede171a2",
       "credentials": {
@@ -821,8 +822,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18448,
-        -336
+        -19120,
+        -448
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -840,8 +841,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -18224,
-        -336
+        -18896,
+        -448
       ]
     },
     {
@@ -900,8 +901,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -18000,
-        -336
+        -18672,
+        -448
       ],
       "webhookId": "db96565a-1a27-4c0f-99a2-886b9dde1011",
       "credentials": {
@@ -940,8 +941,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18448,
-        -144
+        -19120,
+        -256
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -979,8 +980,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18224,
-        -144
+        -18896,
+        -256
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -998,8 +999,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -18000,
-        -144
+        -18672,
+        -256
       ]
     },
     {
@@ -1080,8 +1081,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -17552,
-        -240
+        -18224,
+        -352
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -1128,8 +1129,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -17328,
-        -144
+        -18000,
+        -256
       ],
       "webhookId": "9faeff16-47fd-4026-ac87-fadf4c07b089",
       "credentials": {
@@ -1168,8 +1169,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18448,
-        48
+        -19120,
+        -64
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -1187,8 +1188,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -18224,
-        48
+        -18896,
+        -64
       ]
     },
     {
@@ -1241,8 +1242,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -18000,
-        48
+        -18672,
+        -64
       ],
       "webhookId": "a2dd9516-4b08-4594-8a96-cf53f61cb6aa",
       "credentials": {
@@ -1281,8 +1282,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18448,
-        240
+        -18688,
+        96
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -1312,8 +1313,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18224,
-        240
+        -18464,
+        96
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -1331,8 +1332,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -18000,
-        240
+        -18240,
+        96
       ]
     },
     {
@@ -1437,8 +1438,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -17776,
-        240
+        -18016,
+        96
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -1456,8 +1457,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -17552,
-        144
+        -17792,
+        0
       ]
     },
     {
@@ -1567,8 +1568,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -17328,
-        144
+        -17568,
+        0
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -1655,8 +1656,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -17104,
-        144
+        -17344,
+        0
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -1703,8 +1704,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -16880,
-        48
+        -17120,
+        -96
       ],
       "webhookId": "84b799dd-29a8-4e96-93fd-98a24b97d056",
       "credentials": {
@@ -1729,8 +1730,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -16880,
-        240
+        -17120,
+        96
       ],
       "webhookId": "3aeb063d-00fb-4ce0-8449-feacaa5a5068",
       "credentials": {
@@ -1818,8 +1819,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18448,
-        432
+        -19120,
+        320
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -1866,8 +1867,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -18224,
-        432
+        -18896,
+        320
       ],
       "webhookId": "844341fc-d3d1-4d2e-b9db-8c1c5792a2d4",
       "credentials": {
@@ -1898,8 +1899,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18448,
-        624
+        -19120,
+        512
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -1917,8 +1918,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -18224,
-        624
+        -18896,
+        512
       ]
     },
     {
@@ -1993,8 +1994,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18448,
-        816
+        -19120,
+        704
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -2081,8 +2082,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -18224,
-        816
+        -18896,
+        704
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -2129,8 +2130,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -18000,
-        816
+        -18672,
+        704
       ],
       "webhookId": "dd845cfb-7cdb-4262-84fa-72dacd1ec083",
       "credentials": {
@@ -2161,8 +2162,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -18448,
-        1008
+        -19120,
+        896
       ],
       "webhookId": "8df34daa-11fe-4898-a1e6-a777246b872c",
       "credentials": {
@@ -2222,8 +2223,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -18000,
-        624
+        -18672,
+        512
       ],
       "webhookId": "65ca2c80-d88b-4c14-941e-6dffede171a2",
       "credentials": {
@@ -2309,8 +2310,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.7,
       "position": [
-        -17776,
-        -720
+        -18448,
+        -832
       ],
       "id": "0508b549-fb0e-448e-93d8-161cc4e64711",
       "name": "Sesión ESPERANDO_OFICINA",
@@ -2334,7 +2335,7 @@
       "type": "n8n-nodes-base.telegramTrigger",
       "typeVersion": 1.1,
       "position": [
-        -15232,
+        -15216,
         -1088
       ],
       "webhookId": "b93554b7-86c4-46fc-8cd9-dd7e0b1d5441",
@@ -2354,7 +2355,7 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -15008,
+        -14992,
         -1088
       ]
     },
@@ -2445,7 +2446,7 @@
       "type": "n8n-nodes-base.switch",
       "typeVersion": 3.2,
       "position": [
-        -14784,
+        -14768,
         -1120
       ]
     },
@@ -2481,7 +2482,7 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14560,
+        -14544,
         -1280
       ],
       "webhookId": "93a31484-60e5-425e-a068-44e752fb8a14",
@@ -2513,7 +2514,7 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -14560,
+        -14544,
         -1088
       ],
       "credentials": {
@@ -2532,7 +2533,7 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -14336,
+        -14320,
         -1088
       ]
     },
@@ -2551,7 +2552,7 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14112,
+        -14096,
         -1088
       ],
       "webhookId": "91a59eda-4d59-4310-a511-252a093f7824",
@@ -2577,7 +2578,7 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14336,
+        -14320,
         -704
       ],
       "webhookId": "3a4935c0-e4a1-4f94-a6a2-d61e7812a5cc",
@@ -2617,7 +2618,7 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -14336,
+        -14320,
         -896
       ],
       "credentials": {
@@ -2656,7 +2657,7 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        -14112,
+        -14096,
         -896
       ]
     },
@@ -2675,7 +2676,7 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -13888,
+        -13872,
         -800
       ],
       "webhookId": "9a97a861-49ed-4e1d-be38-73b5816344a5",
@@ -2792,7 +2793,7 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -13888,
+        -13872,
         -992
       ],
       "credentials": {
@@ -2831,7 +2832,7 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -13664,
+        -13648,
         -992
       ],
       "credentials": {
@@ -2850,7 +2851,7 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -13440,
+        -13424,
         -992
       ]
     },
@@ -2869,7 +2870,7 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -13216,
+        -13200,
         -1088
       ],
       "webhookId": "eabfc029-232a-497e-9287-61984689b21a",
@@ -2912,7 +2913,7 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -13216,
+        -13200,
         -896
       ],
       "webhookId": "1a9c5f77-9eaa-4844-a3e2-83d2cd6f9db4",
@@ -2954,7 +2955,7 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        -14560,
+        -14544,
         -800
       ]
     },
@@ -2986,8 +2987,8 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.3,
       "position": [
-        -17776,
-        -144
+        -18448,
+        -256
       ],
       "id": "a04784bf-9f6c-45f6-977f-157b2fa839c4",
       "name": "If1"
@@ -3005,8 +3006,8 @@
       "type": "n8n-nodes-base.telegramTrigger",
       "typeVersion": 1.1,
       "position": [
-        -15504,
-        272
+        -15696,
+        1184
       ],
       "webhookId": "c187bda2-9235-46d9-bffa-3a4f3062bd7f",
       "credentials": {
@@ -3025,8 +3026,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -15280,
-        272
+        -15472,
+        1184
       ]
     },
     {
@@ -3260,8 +3261,8 @@
       "type": "n8n-nodes-base.switch",
       "typeVersion": 3.2,
       "position": [
-        -15056,
-        144
+        -15248,
+        1056
       ]
     },
     {
@@ -3350,8 +3351,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14832,
-        -208
+        -15024,
+        512
       ],
       "webhookId": "cf67980f-445c-43c9-b40b-ca2238475082",
       "credentials": {
@@ -3382,8 +3383,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -14832,
-        -16
+        -15024,
+        704
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -3401,8 +3402,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -14608,
-        -16
+        -14800,
+        704
       ]
     },
     {
@@ -3437,8 +3438,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14384,
-        -16
+        -14576,
+        704
       ],
       "webhookId": "c4b3a541-06ec-4369-b538-1605c61991ca",
       "credentials": {
@@ -3469,8 +3470,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -14832,
-        176
+        -15024,
+        896
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -3488,8 +3489,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -14608,
-        176
+        -14800,
+        896
       ]
     },
     {
@@ -3524,8 +3525,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14384,
-        176
+        -14576,
+        896
       ],
       "webhookId": "b42dcd64-149d-4ad9-8cba-46f8da14bd80",
       "credentials": {
@@ -3556,8 +3557,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -14832,
-        368
+        -15024,
+        1088
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -3575,8 +3576,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -14608,
-        368
+        -14800,
+        1088
       ]
     },
     {
@@ -3600,8 +3601,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -14832,
-        560
+        -15024,
+        1280
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -3631,8 +3632,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -14576,
-        560
+        -14800,
+        1280
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -3650,8 +3651,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -14304,
-        560
+        -14576,
+        1280
       ]
     },
     {
@@ -3686,8 +3687,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14048,
-        560
+        -14352,
+        1280
       ],
       "webhookId": "c52392ed-eaab-4297-b57b-c0d5741037db",
       "credentials": {
@@ -3718,8 +3719,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -14832,
-        752
+        -15024,
+        1472
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -3737,8 +3738,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -14608,
-        752
+        -14800,
+        1472
       ]
     },
     {
@@ -3773,8 +3774,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14384,
-        752
+        -14576,
+        1472
       ],
       "webhookId": "888e36f6-826b-419b-adc4-924d4754d6f9",
       "credentials": {
@@ -3805,8 +3806,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -14832,
-        944
+        -15024,
+        1664
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -3824,8 +3825,8 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -14608,
-        944
+        -14800,
+        1664
       ]
     },
     {
@@ -3860,8 +3861,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14384,
-        944
+        -14576,
+        1664
       ],
       "webhookId": "b5786061-33d8-4405-8f0b-09e880a69d2c",
       "credentials": {
@@ -3903,8 +3904,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14832,
-        1136
+        -15024,
+        1856
       ],
       "webhookId": "558790c6-8c83-4ff0-a192-8ef1d31a6a6e",
       "credentials": {
@@ -3946,8 +3947,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -14384,
-        368
+        -14576,
+        1088
       ],
       "webhookId": "004a5cae-ca88-44b2-8c67-cc479b412997",
       "credentials": {
@@ -4001,7 +4002,8 @@
         "rule": {
           "interval": [
             {
-              "triggerAtHour": 18
+              "triggerAtHour": 19,
+              "triggerAtMinute": 40
             }
           ]
         }
@@ -4011,8 +4013,8 @@
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
       "position": [
-        -17248,
-        -1488
+        -17232,
+        -1408
       ]
     },
     {
@@ -4036,8 +4038,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -17024,
-        -1488
+        -17008,
+        -1408
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -4067,8 +4069,8 @@
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        -16816,
-        -1488
+        -16784,
+        -1408
       ],
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -4086,13 +4088,13 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        -16592,
-        -1488
+        -16560,
+        -1408
       ]
     },
     {
       "parameters": {
-        "chatId": "={{ $json.chat_id }}",
+        "chatId": "=6003549677",
         "text": "={{ $json.texto }}",
         "additionalFields": {
           "appendAttribution": false,
@@ -4105,8 +4107,8 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        -16368,
-        -1488
+        -16336,
+        -1408
       ],
       "webhookId": "reporte-diario-webhook-001",
       "credentials": {
@@ -4131,16 +4133,67 @@
     },
     {
       "parameters": {
-        "additionalOptions": {}
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "fbf89ad6-79ca-4e34-bb7c-c1e9481352ee",
+              "leftValue": "={{ $now }}",
+              "rightValue": "2026-06-12T09:00:00",
+              "operator": {
+                "type": "dateTime",
+                "operation": "after"
+              }
+            },
+            {
+              "id": "fe3662b9-40d9-4c56-9864-304f2a219683",
+              "leftValue": "={{ $now }}",
+              "rightValue": "2026-06-12T18:00:00",
+              "operator": {
+                "type": "dateTime",
+                "operation": "before"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
       },
-      "type": "n8n-nodes-base.baserow",
-      "typeVersion": 1.1,
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
       "position": [
-        0,
-        0
+        -19136,
+        192
       ],
-      "id": "60fd437f-2a63-4582-861c-0e22cd022efe",
-      "name": "Get many rows"
+      "id": "cc753ecd-08e7-4efa-94ce-5b9d01e47a4f",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "chatId": "={{ $json.telegram_id }}",
+        "text": "🌙 Cafetería Cerrada. Nuestro horario es de Lunes a Viernes, 8am a 5pm. ¡Te esperamos!",
+        "additionalFields": {}
+      },
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [
+        -18688,
+        272
+      ],
+      "id": "cbd90d1d-0be1-4d75-af54-200b4dbc5360",
+      "name": "Send a text message",
+      "webhookId": "eab049bd-46db-4c12-84f6-bcfa0083615a",
+      "credentials": {
+        "telegramApi": {
+          "id": "yKbIA7dBqWpDEqZG",
+          "name": "admin cafeteria"
+        }
+      }
     }
   ],
   "pinData": {},
@@ -4279,7 +4332,7 @@
         ],
         [
           {
-            "node": "Sesión Confirmar",
+            "node": "If",
             "type": "main",
             "index": 0
           }
@@ -5060,14 +5113,32 @@
           }
         ]
       ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "Sesión Confirmar",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Send a text message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
-  "active": true,
+  "active": false,
   "settings": {
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
-  "versionId": "bf2e4b9e-daa7-4bde-aa3c-51aad376af5e",
+  "versionId": "fec6341f-c40b-4ccb-b1b6-35d9fe182dff",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "d442b8f51a41bb327b8f019f1695e41e45031d7052e89abb97827aacf96d48bd"
