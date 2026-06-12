@@ -336,3 +336,15 @@ Proyecto_DeliveryBot_GelvezRodriguezSamuelDavid/
 <img width="1868" height="894" alt="Captura de pantalla 2026-06-06 220200" src="https://github.com/user-attachments/assets/8fd37588-fcf7-4748-ad66-65f82229691c" />
 **No salia nada parecido a lo que nos mostro en la clase, asi que inicié sesion en deepwiki y ahi mismo le di create wiki, y le comparto el enlace por este medio: https://app.devin.ai/org/samuelgelvez-star/wiki/samuelgelvez-star/Proyecto_DeliveryBot_GelvezRodriguezSamuelDavid?branch=main.
 Solo debe iniciar sesion para poder ver la wiki de mi repositorio.
+
+
+##UPDATE EXAMEN NUMERO 1
+#WORKFLOW ACTUALIZADO
+<img width="1586" height="780" alt="image" src="https://github.com/user-attachments/assets/532e447a-dd80-4cf9-8642-0821e6af6149" />
+
+#MENSAJE DE TELEGRAM
+<img width="491" height="882" alt="image" src="https://github.com/user-attachments/assets/b1fc97db-ed40-41cf-ba38-a04e0cd61203" />
+
+
+
+
